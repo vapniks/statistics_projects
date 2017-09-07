@@ -7,3 +7,6 @@ Only the code files are included, not the reports.
   * **abortion_and_crime** : analysis of the effects on crime rates of changes in US abortion law. This replicates a study by 
 	Donahue & Levitt and uses their weighted abortion rate index, but with more recent data. The data was obtained from multiple 
 	sources and merged together using R. 
+  * **inflation_and_FDI** : analysis of non-linear and threshold effects of inflation on foreign direct investment. 
+	This is a cross-country panel data study using robust dynamic panel models with instrumental variables (Arellano-Bover), 
+	rolling regressions, thresholded and quadratic models, along with the appropriate diagnostic testing and graphs.
