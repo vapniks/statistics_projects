@@ -1,4 +1,4 @@
-/* Dynamic panel data analysis for dissertation */
+/* Dynamic panel data analysis */
 
 capture log close
 log using "stata_output.log", replace
