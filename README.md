@@ -10,3 +10,4 @@ Only the code files are included, not the reports.
   * **inflation_and_FDI** : analysis of non-linear and threshold effects of inflation on foreign direct investment. 
 	This is a cross-country panel data study using robust dynamic panel models with instrumental variables (Arellano-Bover), 
 	rolling regressions, thresholded and quadratic models, along with the appropriate diagnostic testing and graphs.
+  * **inflation_and_financial_spreads** : forecasting inflation and GDP using financial spread variables.
