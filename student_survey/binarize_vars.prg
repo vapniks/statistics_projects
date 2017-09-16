@@ -1,0 +1,37 @@
+
+' Binarize importance variables
+
+series Q65b = (Q65 >= 6)
+series Q66b = (Q66 >= 6)
+series Q67b = (Q67 >= 6)
+series Q68b = (Q68 >= 6)
+series Q69b = (Q69 >= 6)
+series Q70b = (Q70 >= 6)
+series Q71b = (Q71 >= 6)
+series Q72b = (Q72 >= 6)
+series Q73b = (Q73 >= 6)
+series Q74b = (Q74 >= 6)
+series Q75b = (Q75 >= 6)
+series Q76b = (Q76 >= 6)
+series Q77b = (Q77 >= 6)
+series Q78b = (Q78 >= 6)
+series Q79b = (Q79 >= 6)
+series Q80b = (Q80 >= 6)
+series Q81b = (Q81 >= 6)
+series Q82b = (Q82 >= 6)
+series Q83b = (Q83 >= 6)
+series Q86b = (Q86 >= 6)
+series Q87b = (Q87 >= 6)
+series Q88b = (Q88 >= 6)
+series Q89b = (Q89 >= 6)
+series Q90b = (Q90 >= 6)
+series Q91b = (Q91 >= 6)
+series Q92b = (Q92 >= 6)
+series Q93b = (Q93 >= 6)
+series Q94b = (Q94 >= 6)
+series Q95b = (Q95 >= 6)
+
+series q214b = (Q214 >= 3)
+q214b = @recode(q214=7,NA,q214b)
+
+

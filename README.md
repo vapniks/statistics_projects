@@ -17,4 +17,6 @@ Only the code files are included, not the reports.
   * **reserve_ratios** : stability analysis of the German banking sector in the 19th century by fitting SVAR (Structured Impulse 
     Response Functions) models to reserve ratio time series, and examining the IRFs (Impulse Response Functions). 
 	Several different variable orderings are tried for the IRFs (Impulse Response Functions), based on different criteria.
+  * **student_survey** : factor analysis of university student survey data. Extracted factors are then used in a Gompit binary 
+    response model (Gompit is used since the two classes are very unbalanced).
 
