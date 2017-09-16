@@ -1,5 +1,5 @@
 # statistics_projects
-A few example statistics projects using stata and R. 
+A few example statistics projects using stata, eviews and R. 
 Only the code files are included, not the reports.
 
   * **tobacco_taxation** : regression analysis of panel data from the "Health Survey for England" 1998-2007 to explore the 
