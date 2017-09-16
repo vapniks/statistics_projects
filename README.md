@@ -14,3 +14,7 @@ Only the code files are included, not the reports.
 	Perform Chow breakpoint / QLR testing for coefficient stability, and assess forecast accuracy of several VAR models in loop.
   * **happiness_and_life_satisfaction** : ordered probit models to assess the impact of macroeconomic factors on self-reported
 	happiness and life-satisfaction.
+  * **reserve_ratios** : stability analysis of the German banking sector in the 19th century by fitting SVAR (Structured Impulse 
+    Response Functions) models to reserve ratio time series, and examining the IRFs (Impulse Response Functions). 
+	Several different variable orderings are tried for the IRFs (Impulse Response Functions), based on different criteria.
+
