@@ -18,5 +18,5 @@ Only the code files are included, not the reports.
     Response Functions) models to reserve ratio time series, and examining the IRFs (Impulse Response Functions). 
 	Several different structure matrices are tried for the IRFs (Impulse Response Functions), based on different criteria.
   * **student_survey** : factor analysis of university student survey data. Extracted factors are then used in a Gompit binary 
-    response model (Gompit is used since the two classes are very unbalanced).
+    response model (Gompit is used since the two classes are very unbalanced). Eviews was used for this project.
 
