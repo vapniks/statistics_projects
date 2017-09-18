@@ -21,5 +21,6 @@ Only the code files are included, not the reports.
     response model (Gompit is used since the two classes are very unbalanced). Eviews was used for this project.
   * **electrocardiography** : simple analysis of signal timings for electrocardiography data. The aim of the study was to identify
 	which configurations of ventricular delays and pacing intervals lead to the shortest left ventricle activation times.
-
+  * **good_cholesterol** : simple analysis of the effect of reconstituted HDL ("good cholesterol") on plaque stabilisation in the 
+	carotid artery. Family-wise error correction was applied since multiple tests were performed.
 
