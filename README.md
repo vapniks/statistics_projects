@@ -16,7 +16,7 @@ Only the code files are included, not the reports.
 	happiness and life-satisfaction.
   * **reserve_ratios** : stability analysis of the German banking sector in the 19th century by fitting SVAR (Structured Impulse 
     Response Functions) models to reserve ratio time series, and examining the IRFs (Impulse Response Functions). 
-	Several different structure matrices are tried for the IRFs (Impulse Response Functions), based on different criteria.
+	Several different structure matrices were tried for the IRFs, based on different criteria.
   * **student_survey** : factor analysis of university student survey data. Extracted factors are then used in a Gompit binary 
     response model (Gompit is used since the two classes are very unbalanced). Eviews was used for this project.
   * **electrocardiography** : simple analysis of signal timings for electrocardiography data. The aim of the study was to identify
